@@ -1,0 +1,4 @@
+Remore access to the lab computer
+
+ https://remoteaccess.labstats.com/umcp-ece
+ Please try enter your credentials as username@umd.edu and password accordingly. 

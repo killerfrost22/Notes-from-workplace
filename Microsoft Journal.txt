@@ -1,0 +1,6 @@
+Microsoft Journal
+
+Installation from microsft 
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=53003
+ Need Localadmin access
+Professor Newcomb's computer just need prompt 

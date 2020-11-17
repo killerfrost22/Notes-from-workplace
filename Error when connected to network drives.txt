@@ -1,0 +1,8 @@
+Cannot add network drives
+
+Check AD domain see if the computer connected to the network\
+chekc pulse 
+CMD shutdown /r
+windows updated 
+
+connect to network if error showed up meaning only one account user can connected

@@ -1,0 +1,12 @@
+Gmail email listserv
+
+Please try the instructions below to share google contact group
+1. Open Gmail.
+2. Click the Apps Grid, select Contacts.
+3. On the left, click on the Contact Group that you want to share.
+4. Click the More button.
+5. Select Export in the left list
+6. Use the second option under "Which contacts do you want to export?" Since the export is for a single Group, use the pull-down menu to select the Group to export.
+7. Use the first option under Which export format? - use Google CSV format (for importing to another Google account).
+8. Click the blue Export button.The google.csv file will export into the Downloads folder on the computer.
+9. Share to CSV file. As for others who want to use the contact list they can import the CSV file through the import button to the left.

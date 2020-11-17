@@ -1,0 +1,17 @@
+Open Google Drive.
+
+Please try the instructions below to share google contact group
+Open Gmail.
+Click the Apps Grid, select Contacts.
+On the left, click on the Contact Group that you want to share.
+Click the More button.
+Select Export in the left list
+Use the second option under "Which contacts do you want to export?" Since the export is for a single Group, use the pull-down menu to select the Group to export.
+Use the first option under Which export format? - use Google CSV format (for importing to another Google account).
+Click the blue Export button.The google.csv file will export into the Downloads folder on the computer.
+Share to CSV file. As for others who want to use the contact list they can import the CSV file through the import button to the left.
+
+The icon is hidding in the app grid lol 
+
+It's just a bookmark thing
+We're glad to hear that you were able to get a new bookmark working properly! It may even be best to manually adjust the bookmark to https://mail.google.com/ to keep it as simple as possible.

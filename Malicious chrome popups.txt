@@ -1,0 +1,6 @@
+Fix windows malicious popup
+	ID the computer if it is owned by the university 
+	Checked event viewer found nothing
+	Checked task manager 
+	Checked malicious programs and right bottom tray found nothing
+	Use windows defender or Malwarebytes to scan the system

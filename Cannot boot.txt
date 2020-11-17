@@ -1,0 +1,4 @@
+Fix a boot cannot computer
+	Ask if it is on AD network 
+		if so tell admin and schedule a time with admin to drop off the computer 
+		if not try some troubleshooting

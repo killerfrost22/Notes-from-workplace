@@ -1,0 +1,30 @@
+You can try add a new mobile device to your duo account. Please follow instructions below.
+To add a mobile device, you will need:
+
+A computer with internet access
+A supported mobile device
+Duo Mobile app installed on your device
+To begin, follow the steps listed below:
+
+Go to your MFA Profile on your computer.
+NOTE: If you have already enrolled in multi-factor authentication, you may need to verify your identity before continuing.
+Click Manage under Devices & Settings.
+
+Click Add a new device.
+Add a new device
+Select Mobile Phone or Tablet. Click Continue.
+Select the operating system. Click Continue.
+Click I have Duo Mobile Installed.
+An Activate Duo Mobile QR code will be displayed.
+Open the Duo Mobile app on the device you wish to activate. From your Duo Mobile App, tap the plus (+) icon. A Scan Barcode screen will display on your mobile device, and the camera on your mobile device will activate.
+Return to the Activate Duo Mobile page on your web browser. Using the camera on your mobile device, capture the QR code. Click Continue.
+Scan the code
+Your device should be added and ready to use.
+
+To learn more, check out the clip below:
+Add a Mobile Device to your Account
+
+
+
+Please ignore the previous email about duo adding a new device. It won't work for you since you do not have access to your old device. Please contact the IT Service Desk at 301.405.1500 or itsupport@umd.edu for assistance. 
+Since He doesnt have the old device ready therefore we cannnot ask him to use the old device here to do the MFA thing
