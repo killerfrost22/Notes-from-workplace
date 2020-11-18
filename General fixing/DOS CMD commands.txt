@@ -1,0 +1,42 @@
+cmd commands
+
+
+ipconfig 
+ping
+
+cd 
+ls
+
+dir -- show directory
+edit
+find
+
+logoff -- logoff user
+shutdown
+shutdown /r --restart
+
+time -- display local time
+
+tree -- show tree of the folders
+
+FIles
+
+	move
+	append
+	copy 
+	
+	
+Netstat -- show items connected to WIFi
+
+Tracert google.com
+
+powercfg -energy     -- get a full power efficiency report.
+
+systeminfo   --show systeminfo
+
+sfc /scannow  --will check the integrity of all protected system files.
+				If a problem is found, the files will be repaired with backed-up.
+				
+				
+chkdsk C: /f/r/x    --The command to check the C: drive and repair any problems, 
+						launch the command window as an administrator and type CHKDSK /f C:.

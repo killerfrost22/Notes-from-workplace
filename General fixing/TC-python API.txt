@@ -1,0 +1,7 @@
+Thermol-cal NoTes
+
+Python API 
+1. Ask which dept. MSE group 
+2. can distribute license 
+3. LIcense groiup
+4. https://www.thermocalc.com/

@@ -1,0 +1,4 @@
+Updated pswd but not updated on laptop 
+
+Connect to VPN and then restart 
+Or go to campus and connect wIFI and restart
