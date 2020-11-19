@@ -1,0 +1,7 @@
+SIS install
+
+FInd mocha in ask article
+they should be using mocha not hummingbird
+Download from terpware 
+
+Install check notes with download 
