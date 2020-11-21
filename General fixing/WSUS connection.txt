@@ -1,0 +1,7 @@
+Wsus connection
+
+1. pulse secure connected
+2. run mmc
+3. open profile 
+4. wsus code
+5.

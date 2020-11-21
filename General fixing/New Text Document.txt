@@ -1,0 +1,13 @@
+Machine -- User -- Username -- IP address
+
+MSEWKCHE2135A  Sherri-- Statum12 -- 128.8.142.147
+
+MSEWKCHE2135B  Unknown--mmayher -- 128.8.142.148
+
+MSEWKCHE2135C  Unknown-- Unknown -- 128.8.142.148 --
+
+MSELTJCZHAO JCzhao -- jczhao -- 129.2.180.213
+
+Printers:
+\\engrps260v.ad.umd.edu\MSEPTCHE2135C
+\\engrps260v.ad.umd.edu\MSEPTCHE2135X
