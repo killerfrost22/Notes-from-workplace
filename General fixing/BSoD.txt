@@ -1,0 +1,5 @@
+BSOD
+
+1. Windows Memory Diagnostic
+2. Event Viewer
+3. 
