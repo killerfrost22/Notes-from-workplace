@@ -5,3 +5,6 @@ Python API
 2. can distribute license 
 3. LIcense groiup
 4. https://www.thermocalc.com/
+5. Python interface c
+6. Do you have the license manager installed for Thermo-Calc? If not, we could assist you with installing that. Here is an archive of installation guides that might help you: https://thermocalc.com/support/documentation/
+If you have 2020a and Windows, the License manager information is on page 34 and the TC-Python Quick Install Guide is on page 74 of the guide.

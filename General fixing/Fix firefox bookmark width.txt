@@ -1,0 +1,6 @@
+Fix firefox bookmark 
+
+1. resize if not working 
+2. windows text size resolution change 
+3. locate the sys file in morizolla firefox
+4. resize 

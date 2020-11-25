@@ -1,0 +1,11 @@
+Store stuff from ipad to laptopp
+
+
+First off, Welcome to the IPad family. Secondly one app I highly recommend for note taking on the IPad is Notablity because it does a little more than the stock notes app provided by Apple. 
+Here is a link to learn more about Notablity https://www.gingerlabs.com/
+
+If you want to keep using the notes app there are a few ways to send pdf to laptop, depending on if you laptop is a Macbook you should be able to directly use Apple's Air-Drop feature to transfer resources from your iPad to laptop via Bluetooth. https://www.easeus.com/iphone-data-transfer/how-to-airdrop-from-ipad-to-mac.html
+
+If you're using a laptop other than a Mac, you can store the notes as a PDF and then email to yourself. This link is really helpful https://macreports.com/ios-13-how-to-export-notes-from-the-notes-app-as-pdf-on-iphone-ipad/
+
+These steps will help you avoid the problems with paths, because if you used the airdrop feature it automatically puts the file in your downloads folder on your computer, and if you email it to yourself you can choose where to store it.

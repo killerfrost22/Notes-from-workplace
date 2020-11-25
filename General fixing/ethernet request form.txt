@@ -1,0 +1,9 @@
+ethernet request
+
+Please complete the following online form for each device that you would like to have connected to the network in your office/lab.
+
+http://ter.ps/iprequest
+
+Once this is completed a technician may come by to review the compliance requirements for network connectivity. Once the review is completed, an administrator will be involved in determining support status and assigning an IP address for your device.
+
+**Note: Please do not attempt to statically configure any network settings on the device. Users are also not authorized to transfer IP addresses to different devices. All networking changes should be done through the Service Desk. **
