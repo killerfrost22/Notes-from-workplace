@@ -1,0 +1,5 @@
+DHCP registration
+
+1. NEw device will need a DHCP device to have to domain access
+f he didn’t request an IP for this specific device yet, he needs to fill out the IP Request form for it
+The form is for any devices that need an IP address
