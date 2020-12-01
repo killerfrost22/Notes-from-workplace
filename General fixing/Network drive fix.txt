@@ -1,0 +1,15 @@
+An interesting case on connecting to a k drive 
+
+Used pulse & cisco anyconnect but none worked
+Worked with the Lexi on the issue and investigating the drive path is correct
+
+But given an error unavailable to connect 
+I suspect the vpn might not working in her case now
+
+Lexi added her to the eng group on cisco
+
+Restarted and things magically fixed
+
+
+RESTART RESART RESTART 
+connect pulse
