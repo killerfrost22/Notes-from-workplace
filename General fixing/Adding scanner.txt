@@ -1,0 +1,7 @@
+Scanner adding 
+
+1. check if the scanner is USB or wireless
+2. scanner driver installation if usb
+Wireless check if connected to AP or WPS
+
+WPS use the button on the reuter
