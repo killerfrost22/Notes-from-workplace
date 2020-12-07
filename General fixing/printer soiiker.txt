@@ -1,0 +1,4 @@
+printer spooler 
+
+1. services run as admin
+2. find printer spooler and restart the service 
