@@ -1,0 +1,15 @@
+Inventor installation fix
+
+1. terpware inventor go to audesk then
+2. Autodesk select the inventor pro and go to install 
+3. Inventor fails error saying "Setup initialization error. There was a problem downloading the software."
+4. 
+
+To get the full installer, use the browser download method or download through the Autodesk Virtual Agent (AVA):
+ Use Browser Download Method for Autodesk Account
+ Installing Autodesk products from the Virtual Agent 
+Sign in to your computer as an Administrator.
+Empty your TEMP folder. To open the TEMP folder, enter %TEMP% in the address bar of File Explorer.
+Disable your antivirus software.
+Disable User Account Control.
+Run the installer.
