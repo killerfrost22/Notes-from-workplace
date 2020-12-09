@@ -1,0 +1,5 @@
+HDMI cable splitter 
+
+HDMI cable splitter for connect two monitors 
+1 in 2 out only connect to mirror image maybe we can try to see if it works
+There are active and passive adapters. A passive adapter would probably duplicated the same thing to both monitors. If they need to use multiple monitors, they probably need a true dock
