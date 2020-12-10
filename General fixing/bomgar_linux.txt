@@ -1,0 +1,7 @@
+Linux bomgar tips
+
+
+1.Make the file executable
+2.Terminal cd to the container folder
+3../b tab and copy filename.desktop
+4. Terminal sh filename.desktop
