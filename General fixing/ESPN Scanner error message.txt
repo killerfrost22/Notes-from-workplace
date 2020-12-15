@@ -1,0 +1,18 @@
+ESPN Scanner error message
+
+"Unable to receive data or Scanner is already in use or unavailable"
+
+
+Right-click Start or click  + x on your keyboard.
+Select Device Manager from the list that appears.
+Click Universal Serial Bus controllers.
+Right-click on Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft) or Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft) and select Uninstall Device.
+Disconnect the USB cable connecting the scanner to your computer.
+Reboot your computer.
+Reconnect the USB cable to your scanner and try scanning again.
+If the issue persists, try using a non-powered USB 2.0 hub to connect the scanner to your computer to resolve the issue. If this does not solve the problem, please contact Epson Support.
+
+Hi Jennifer, can you please do each thing at a time? 
+Disconnect the scanner cable from computer and then restart the scanner. 
+Connect the scanner to the printer, use a USB 3.0 port should be in the back of the computer case. 
+If not use a different port. Then, power on the scanner.
