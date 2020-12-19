@@ -1,0 +1,16 @@
+Faculty Migration 
+
+1. May I have your name and your directory ID please? (Faculty, staff, grad student)
+2. Which building are you moving to?
+3. Open a ticket.
+4. Is this permanant or temporary?
+5. Is this machine owned by the university? 
+6. If so we need to change the name of the computer.
+7.  I can check if there is an active jack. 
+If not, then he'll have to put in a request to activate the nearest jack with his business department
+8.
+9. 
+
+
+
+How would you like us to contact you? 
