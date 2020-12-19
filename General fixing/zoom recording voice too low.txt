@@ -1,0 +1,14 @@
+
+Fix zoom recording voice too low
+I found changing the volume mixer will change my zoom recording voice. Hopefully, this will solve your issue.
+Adjust Volume via the Windows Volume Mixer
+If you’re unable to adjust the volume in the Zoom meeting client, then you can always use the Windows volume mixer instead.
+
+Step 1: Right click the speaker icon at the bottom right of your computer’s task bar and select Open Volume Mixer
+
+Step 2: Find Zoom in the Volume Mixer and use the slider to lower the volume
+
+Note: Sometimes 2 Zoom options appear in the volume mixer. Try to turn down (or up) the one with a “bobbing” green bar.
+
+Please let us know if this doesn't work for you.
+
