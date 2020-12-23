@@ -1,0 +1,5 @@
+Ansys installation Sherlock
+
+Login with your campus credentials
+
+You will want to download the 3 ISO files for Ansys 2020 R2, Windows 64. They are multi-part ISO files, you can right click on the first ISO and choose Open With -> Windows Explorer, then choose Mount, then right-click on setup.exe and choose Run as administrator, make sure you select Sherlock when installing, when asked for license server, leave default ports, and enter this single license server -

@@ -1,0 +1,10 @@
+Windows update cannot properly run
+
+Checked WSuS and the checklist and repair script but none worked
+
+Restarted the machine twice 
+1.Restarted the windows update service in services
+2. Check the log figure out what might be the problem here
+3. Software distribution here 
+4. relaunch the windows updates
+5.
