@@ -1,0 +1,25 @@
+COMSOL INSTALLATION 
+
+Figure out which license is appropriate for the installation.
+Abshire and Albertus have their own group licenses. This may be appropriate for most of their installations but they are not limited to this.
+There is a site FNL for research. This is primarily what you will focus on using.
+Go to the software folder for Comsol.
+Note that various versions and license files are available. 
+Find the version requested and the license file for the group that the requester is a part of. This may even be simply the site license.
+It is easy to mount the ISO in Windows from the share to the computer you're working on if you're doing a Tier 3 installation.
+Get the appropriate installation media connected and begin the installation process. 
+If you are loaning the software to someone, be sure the directions and license file are on the media.
+Start the installer.
+Start a new Comsol installation.
+Accept the agreement.
+License format: License file.
+Point the installer at the group or site license file.
+"Check" to make sure the license is found. You should see the license number and a list of modules.
+Platforms: Install the platforms needed.
+Features: Install the packages needed. 
+DO NOT INSTALL THE LICENSE MANAGER - This is only needed on the license server itself and may confuse people.
+Options: Generally, leave the defaults.
+Feel free to look through these with the customers or use your best judgment. 
+Items can be added or changed later without a problem. See below.
+Install.
+Test.
