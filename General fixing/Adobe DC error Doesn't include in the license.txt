@@ -1,0 +1,15 @@
+This solved my problem:
+
+1. Close acrobat
+
+2. open regedit
+
+3. goto HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe Acrobat\DC\Activation
+
+4. change "Disabled" to 1
+
+5. restart acrobat
+
+6. click on activate when the screen pops up
+
+7. restart acrobat
