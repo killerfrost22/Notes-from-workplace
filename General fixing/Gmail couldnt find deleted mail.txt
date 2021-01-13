@@ -1,0 +1,8 @@
+Gmail couldnt find deleted mail 
+
+Can you check your IMap Settings here? 
+Settings->POP/IMAP->IMAP Access->When a message is marked as deleted and expunged from the last visible IMAP folder.
+After that I go to Settings --> Labels --> Show, picked the labels tab and unchecked the "IMAP" box next to the "Trash" label, and clicked the "Show" URL even though it appeared to be selected. Then check your trash folder.
+
+She accidentally deleted the label structure that she created, not any actual emails. Gmail does not let you recover labels, so she will unfortunately have to go back and relabel all of the old emails she needs. 
+Luckily, the emails she does need are still there, just scattered about without any labels.

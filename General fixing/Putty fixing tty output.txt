@@ -1,0 +1,15 @@
+Putty x11 setting
+
+1) I need to make several changes on my webpage,
+I connect to Glue via Putty, go to public_html,
+but it does not connect me to emacs,
+says:suspended tty output
+
+
+In general, Xming will be used in conjunction with PuTTy to display a server that is connected via SSH on the host machine; X11 forwarding must be enabled in your PuTTy session in order to use Xming.  To enable X11 forwarding, perform the following:
+
+1. On the main PuTTy interface, navigate to  'Connection'
+
+2. Navigate to 'SSH'
+
+3. Navigate to 'X11', and check the box next to 'Enable X11 Forwarding'
