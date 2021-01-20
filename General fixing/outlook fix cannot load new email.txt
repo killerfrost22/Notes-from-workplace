@@ -1,0 +1,4 @@
+Outlook fix 
+
+1. cannot load email 
+2. resign out and sign in

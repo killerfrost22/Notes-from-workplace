@@ -1,0 +1,15 @@
+Teacher's side on canvas cannot see soom
+
+It seems that zoom is hiding from the navigation bar. Please try the following, if not working we are glad to help in a remote session.
+Schedule Zoom meetings in ELMS-Canvas for instructors, TAs and GAs
+Individuals with an instructor, co-instructor, graduate assistant or teaching assistant (TA) role can set up Zoom meeting rooms in ELMS-Canvas. To set up Zoom Meetings in ELMS-Canvas, your default email identified in user account settings MUST be your university email (that is, directoryid@umd.edu). Using any other email will generate an error code.
+
+To check, click on the Account icon in the ELMS-Canvas global navigation, then click on the Settings link.  Note the email address(es) listed under Ways to Contact.  Your university email address must be identified with a favorited star.  If it is not, click on the Edit Settings button and select your university email in the default email field.
+
+Make Zoom available on the course menu
+Zoom can be made available on the ELMS-Canvas navigation menu.
+
+Click on the Settings link on the navigation menu.
+Click on the Navigation tab.
+Drag the Zoom link from the tools that are hidden from students to those that appear on the course navigation.
+Click the Save button at the bottom of the Navigation page.
