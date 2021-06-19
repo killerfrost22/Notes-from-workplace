@@ -1,0 +1,6 @@
+Ethernet networking troubleshooting steps:
+Call NoC about the jacknumber 
+change V:LAN 
+Wait until an engineer changes it 
+Confirmation
+Try the different ethernet cables

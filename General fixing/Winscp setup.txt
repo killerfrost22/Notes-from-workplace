@@ -1,0 +1,17 @@
+https://terpware.umd.edu/Windows/title/1842
+
+We recommend you to use Winscp to transfer files from Glue. Here is a link where you can get the winscp installer from. 
+
+Instructions for connecting to the glue using Winscp:
+Before you connect, you need to know at least:
+Host name of the server. 
+Account username.
+Account password.
+
+Start WinSCP. Login Dialog will appear. On the dialog:
+Select your File protocol.(FTP)
+Enter your host name to Host name field, the username should be your directory id and password to Password
+You may want to save your session details so you do not need to type them in every time you want to connect. Press the Save button.
+Click Login to connect.
+
+Please let us know if you have any questions during the process

@@ -1,0 +1,17 @@
+Here are several methods that you can perform to free up your hard drive space in Windows 10:
+
+Method 1. Delete junk files using Storage sense:
+
+Open Settings
+Select System and choose Storage.
+Under Storage sense, click on the Change how we free up space link.
+Under Temporary files, check the files that you want to delete including Delete temporary files that my apps aren't using, Delete files that have been in the recycle bin for over 30 days, & Delete files in the Downloads folder that haven't changed in 30 days.
+Under Free up space now, you can also select the option to delete the previous installation of Windows 10. Note: this option is only available during the first ten days after installing a new feature update.
+After completing these steps, click on the Clean now button to free up the space.
+
+Method 2. Uninstall apps and games you don't use:
+
+Go to Settings > Apps > Apps & features.
+Select the app or game and uninstall it.
+Click the Uninstall button again to confirm
+Repeat the process if you need to uninstall additional apps or games.
