@@ -1,0 +1,5 @@
+Cannot connect to the umd guest network:
+Problem shows a error window that saying lacking credentials
+
+connect.umd.edu use this website
+And reconnect again
