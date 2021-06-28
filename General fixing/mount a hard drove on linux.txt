@@ -1,0 +1,4 @@
+lvm1_member
+ctrl shift c/v
+lsblk 
+sudo vgscan
