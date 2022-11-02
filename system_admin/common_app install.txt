@@ -1,0 +1,57 @@
+winget install microsoft.teams
+
+winget install microsoft.azurecli
+
+winget install microsoft.powertoys
+
+winget install microsoft.powershell
+
+winget install microsoft.windowsterminal
+
+winget install microsoft.azurestorageexplorer
+
+winget install Microsoft.RemoteDesktopClient
+
+winget install vscode
+
+winget install 7zip.7zip
+
+winget install putty.putty
+
+winget install wireshark
+
+winget install winscp
+
+winget install greenshot
+
+winget install windirstat
+
+winget install AntibodySoftware.WizTree
+
+winget install zoom.zoom
+
+winget install google.chrome
+
+winget install Mozilla.Firefox
+
+winget install foxit.foxitreader
+
+winget install vlc
+
+winget install obsproject.obsstudio
+
+winget install discord
+
+winget install mremoteng.mremoteng
+
+winget install famatech.advancedipscanner
+
+winget install AnyDeskSoftwareGmbH.AnyDesk
+
+winget install audacity.audacity
+
+winget install Yubico.YubikeyManager
+
+winget install rufus.rufus
+
+winget install Robware.RVTools
