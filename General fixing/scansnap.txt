@@ -1,3 +1,0 @@
-Scansnap 
-
-login as localadmin run as localadmin
